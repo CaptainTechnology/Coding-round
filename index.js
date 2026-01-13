@@ -228,13 +228,30 @@ function hello(){
 // Question: Check if two strings are anagrams of each other.
 // Input: "listen", "silent"
 // Output: true
-function areAnagrams(str1, str2) { }
+
+// const str="listen"
+// const str2="silent"
+
+// function checkAnag(first,second){
+//     let firstStr=first.split("").sort().join("")
+//     let secondStr=second.split("").sort().join("")
+// if(firstStr===secondStr){
+//     console.log(true)
+// }else{
+//     console.log(false)
+// }
+// }
+// checkAnag("lsls",'slls')
+// checkAnag("listen",'silent')
+// checkAnag("listen",'silent')
 
 // 11️⃣ Reverse an Array In-Place
 // Question: Reverse an array without using extra space.
 // Input: [1, 2, 3, 4]
 // Output: [4, 3, 2, 1]
-function reverseArray(arr) { }
+function reverseArray(arr) { 
+    
+}
 
 // 12️⃣ Merge Two Sorted Arrays
 // Question: Merge two sorted arrays into one sorted array.
