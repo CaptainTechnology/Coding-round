@@ -233,6 +233,7 @@ console.log(deepCopy.address.city);  // Looking Glass
 //   }
 // };
 
+
 // // ✅ Deep copy using JSON methods
 // const deepCopy = JSON.parse(JSON.stringify(original));
 // console.log(typeof(original),typeof(deepCopy));

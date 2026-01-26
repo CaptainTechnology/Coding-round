@@ -1,0 +1,49 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.minimap.renderCharacters": false,
+  "explorer.compactFolders": false,
+  "breadcrumbs.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "foreground": "#149c7c",
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {
+    "editor.background": "#000000",
+    "sideBar.background": "#000000",
+    "activityBar.background": "#000000",
+    "titleBar.activeBackground": "#000000",
+    "titleBar.inactiveBackground": "#000000"
+  },
+  "workbench.colorTheme": "Default Dark+",
+"javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.commandsToSkipShell": [
+    "clear on run"
+  ],
+  "editor.minimap.enabled": false,
+  "terminal.integrated.tabs.location": "left",
+  "editor.scrollbar.verticalScrollbarSize": 6,
+"editor.scrollbar.horizontalScrollbarSize": 6,
+"editor.scrollbar.vertical": "hidden",
+"editor.scrollbar.horizontal": "hidden",
+"workbench.sideBar.location": "left",
+"terminal.integrated.fontSize": 12,
+"debug.terminal.clearBeforeReusing": true,
+"code-runner.clearPreviousOutput": true
+
+
+} 
